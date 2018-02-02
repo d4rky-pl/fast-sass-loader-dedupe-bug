@@ -1,0 +1,9 @@
+.a {
+  background: #f00;
+  @import 'group';
+}
+
+.b {
+  background: #0f0;
+  @import 'group';
+}
